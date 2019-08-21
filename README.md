@@ -60,7 +60,8 @@ public IEnumerator DeliverMessage()
         }
     }
 ```
-Wait for a moment and your response should be received in your devices.
+
+Before we run the function, we should check the php file contained the server key from our google firebase project. Read Below
 
 # Inspect The PHP Code
 
