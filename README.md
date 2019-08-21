@@ -11,7 +11,7 @@ For firebase setup and information, please follow the steps below.
 <br>
 2. Create a new project
 <br>
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kelvinlkf/php-firebase-push-notification/blob/master/images/project-001.png)
 <br>
 3. Add new app in your project [ Android / IOS ]
 <br>
