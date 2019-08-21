@@ -10,5 +10,12 @@ For firebase setup and information, please follow the steps below.
 1. Login to your firebase console via https://console.firebase.google.com
 <br>
 2. Create a new project
+<br>
+![alt text](http://url/to/img.png)
+<br>
 3. Add new app in your project [ Android / IOS ]
+<br>
+![alt text](http://url/to/img.png)
+<br>
 4. 
+<br>
